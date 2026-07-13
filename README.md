@@ -10,6 +10,8 @@ finish (125) : 2024.02.21.(수)
 introduce : irc protocol을 기반으로 작동하는 단일 서버 제작 (상용 클라이언트와 통신 가능)
 ```
 
+<img width="1920" height="1200" alt="스크린샷 2024-02-14 오후 8 10 34" src="https://github.com/user-attachments/assets/c013cb9b-ae90-4df1-bf7d-bdf0c156a3c2" />
+
 ## 제작 기록
 (팀장분 노션으로 자료 모으고 정리했는데 노션 닫아두셔서 열람 불가)
 
