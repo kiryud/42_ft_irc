@@ -23,13 +23,7 @@ RFC문서 및 irc protocol 분석 : 2024.01.13 ~ 01.16
 		- IRCprotocol의 RPL, ERR메세지를 기반으로 검색해 IRCv3같은것도 찾아냄
 	- 확실한 검증을 위해 상용 irc서버와 irssi의 통신을 tcp 통신을 열람해서 확인
 	
-<img width="1243" height="1670" alt="스크린샷 2026-07-13 오후 2 20 26" src="https://github.com/user-attachments/assets/55737746-f7c6-43bc-8cc2-93c81042a78f" />
-
-<img width="1242" height="766" alt="스크린샷 2026-07-13 오후 2 21 24" src="https://github.com/user-attachments/assets/03853673-3cc0-4928-b17f-baaa785ffd14" />
-
-<img width="1289" height="1334" alt="스크린샷 2026-07-13 오후 2 21 54" src="https://github.com/user-attachments/assets/93cbbd2e-922b-4476-9134-6cb2ebab8c6f" />
-
-<img width="1523" height="497" alt="스크린샷 2026-07-13 오후 2 22 24" src="https://github.com/user-attachments/assets/4cf8b1a1-1f84-42a8-ab01-09fd7cdbc9c0" />
+[남아있는 기록](###분석)
 
 
 1차 제작 : 2024.01.18 ~ 01.24
@@ -39,7 +33,7 @@ RFC문서 및 irc protocol 분석 : 2024.01.13 ~ 01.16
 		- 서버에서 진행하는 kqueue의 구조를 배워 어떤 event처리가 가능한지 배움
 		- 해당 event에서 진행해야하는 irc객체의 동작과 그 때 받는 정보와 반환할 정보를 정리함
 
-[메세지 기록](###서버)
+[메세지 기록](./분리)
 		
 서버와 irc로직을 분리하기 위한 각 객체의 책임과 역할 정리 : 2024.01.25 ~ 01.29
 
@@ -54,6 +48,15 @@ finish (125) : 2024.02.21.(수)
 
 
 
+### 분석
 
-### 서버, 컨트롤러 객체 분리 초안 메세지 기록
+<img width="1243" height="1670" alt="스크린샷 2026-07-13 오후 2 20 26" src="https://github.com/user-attachments/assets/55737746-f7c6-43bc-8cc2-93c81042a78f" />
+
+<img width="1242" height="766" alt="스크린샷 2026-07-13 오후 2 21 24" src="https://github.com/user-attachments/assets/03853673-3cc0-4928-b17f-baaa785ffd14" />
+
+<img width="1289" height="1334" alt="스크린샷 2026-07-13 오후 2 21 54" src="https://github.com/user-attachments/assets/93cbbd2e-922b-4476-9134-6cb2ebab8c6f" />
+
+<img width="1523" height="497" alt="스크린샷 2026-07-13 오후 2 22 24" src="https://github.com/user-attachments/assets/4cf8b1a1-1f84-42a8-ab01-09fd7cdbc9c0" />
+
+### 분리
 <img width="1442" height="1858" alt="스크린샷 2026-07-13 오후 2 10 21" src="https://github.com/user-attachments/assets/890f07a8-e994-40ed-859b-a0d6c194d825" />
