@@ -25,6 +25,11 @@ RFC문서 및 irc protocol 분석 : 2024.01.13 ~ 01.16
 	
 <img width="1243" height="1670" alt="스크린샷 2026-07-13 오후 2 20 26" src="https://github.com/user-attachments/assets/55737746-f7c6-43bc-8cc2-93c81042a78f" />
 
+<img width="1242" height="766" alt="스크린샷 2026-07-13 오후 2 21 24" src="https://github.com/user-attachments/assets/03853673-3cc0-4928-b17f-baaa785ffd14" />
+
+<img width="1289" height="1334" alt="스크린샷 2026-07-13 오후 2 21 54" src="https://github.com/user-attachments/assets/93cbbd2e-922b-4476-9134-6cb2ebab8c6f" />
+
+<img width="1523" height="497" alt="스크린샷 2026-07-13 오후 2 22 24" src="https://github.com/user-attachments/assets/4cf8b1a1-1f84-42a8-ab01-09fd7cdbc9c0" />
 
 
 1차 제작 : 2024.01.18 ~ 01.24
