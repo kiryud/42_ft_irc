@@ -34,7 +34,7 @@ RFC문서 및 irc protocol 분석 : 2024.01.13 ~ 01.16
 		- IRCprotocol의 RPL, ERR메세지를 기반으로 검색해 IRCv3같은것도 찾아냄
 	- 확실한 검증을 위해 상용 irc서버와 irssi의 통신을 tcp 통신을 열람해서 확인
 
-[남아있는 분석 기록1](./subject_rfc1459_.md)
+[남아있는 분석 기록1](<./subject와 RFC 1459 대강 정리.md>)
 
 [남아있는 분석 기록2](#분석)
 
