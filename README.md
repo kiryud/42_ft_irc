@@ -29,7 +29,7 @@ RFC문서 및 irc protocol 분석 : 2024.01.13 ~ 01.16
 		- 서버에서 진행하는 kqueue의 구조를 배워 어떤 event처리가 가능한지 배움
 		- 해당 event에서 진행해야하는 irc객체의 동작과 그 때 받는 정보와 반환할 정보를 정리함
 
-<img width="1442" height="1858" alt="스크린샷 2026-07-13 오후 2 10 21" src="https://github.com/user-attachments/assets/890f07a8-e994-40ed-859b-a0d6c194d825" />
+[메세지 기록](###서버)
 		
 서버와 irc로직을 분리하기 위한 각 객체의 책임과 역할 정리 : 2024.01.25 ~ 01.29
 
@@ -42,3 +42,8 @@ finish (115) : 2024.02.13.(화)
 finish (125) : 2024.02.21.(수)
 
 
+
+
+
+### 서버, 컨트롤러 객체 분리 초안 메세지 기록
+<img width="1442" height="1858" alt="스크린샷 2026-07-13 오후 2 10 21" src="https://github.com/user-attachments/assets/890f07a8-e994-40ed-859b-a0d6c194d825" />
