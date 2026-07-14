@@ -4,7 +4,7 @@ project : ft_irc
 Circle : 5
 Language : cpp
 Type : group(3)
-start : 2024.01.12.(금)
+start : 2023.12.29.(금)
 finish (115) : 2024.02.13.(화)
 finish (125) : 2024.02.21.(수)
 introduce : irc protocol을 기반으로 작동하는 단일 서버 제작 (상용 클라이언트와 통신 가능)
